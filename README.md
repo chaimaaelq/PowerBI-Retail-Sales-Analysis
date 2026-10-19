@@ -11,7 +11,7 @@ L'objectif est de construire un tableau de bord interactif pour analyser les ven
 *   **Business Intelligence :** Power BI Desktop & Service
 *   **Langages :** DAX (Data Analysis Expressions), M (Power Query)
 
-## 🏗️ Architecture du Projet
+## Architecture du Projet
 
 Le projet est divisé en trois phases distinctes :
 
