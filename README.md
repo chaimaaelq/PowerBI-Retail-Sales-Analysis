@@ -1,7 +1,7 @@
 # Analyse des Ventes au Détail avec Power BI
 
 ## Présentation du Projet
-Ce projet est un rapport de Business Intelligence complet réalisé dans le cadre de nos études à la **Faculté Polydisciplinaire de Taroudant (Université Ibnou Zohr)**. 
+Ce projet est un rapport de Business Intelligence complet réalisé dans le cadre de nos études à la Faculté Polydisciplinaire de Taroudant (Université Ibnou Zohr). 
 
 L'objectif est de construire un tableau de bord interactif pour analyser les ventes au détail, comparer les performances réelles par rapport au budget, et utiliser les fonctionnalités d'Intelligence Artificielle de Power BI.
 
